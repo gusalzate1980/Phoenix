@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entity.Entity
 {
-    public class Experience
+    class Assesment
     {
     }
 }
